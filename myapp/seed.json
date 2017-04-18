@@ -1,5 +1,5 @@
 {
-	"undefined": "localhost/LOCAL_DB_NAME",
-	"dev": "localhost/DEV_DB_NAME",
+	"undefined": "mongodb://localhost:27017/kompas_test_app",
+	"dev": "mongodb://localhost:27017/kompas_test_app",
 	"prod": "localhost/PROD_DB_NAME"
 }
